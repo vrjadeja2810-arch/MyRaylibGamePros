@@ -24,6 +24,7 @@ This repository documents my journey of learning game development from scratch. 
 
 **Location:** [`/Pro1.FlappyBox`](./Pro1.FlappyBox)
 
+<img src="./ScreenShots/flappy.png" width="50%" style="border-radius: 10px;">
 
 Inspired by the legendary *Flappy Bird*, this was my very first solo attempt at a game loop. Instead of complex sprites, I used pure geometric shapes (Boxes) to understand the core mechanics of movement and rendering.
 
@@ -44,6 +45,8 @@ Inspired by the legendary *Flappy Bird*, this was my very first solo attempt at 
 
 **Location:** [`/Pro2.DashTheBall`](./Pro2.DashTheBall)
 
+<img src="./ScreenShots/dash.png" width="70%" style="border-radius: 10px;">
+
 Taking everything I learned from the first project, I leveled up! *Dash The Ball* introduces more complex systems like audio management and state persistence.
 
 ### 🚀 What's New & Improved
@@ -51,7 +54,7 @@ Taking everything I learned from the first project, I leveled up! *Dash The Ball
 * **💥 Advanced Collision:** More precise hitboxes and interaction logic.
 * **💾 File Handling:** The game reads/writes files (likely for high scores or settings).
 * **🎮 Better Controls:** smoother input handling for dashing mechanics.
-* **🔄 Restart System:** Implemented a full game loop reset without restarting the application.
+* **🔄 Restart System:** Implemented a full game loop with increasing speed and reset without restarting the application.
 
 ---
 
